@@ -11,5 +11,3 @@ MarkDown supports stuff like sections:
 ## Subsection 1
 
 ## Subsection 2
-
-Bold and italics: **bold** and *italics*
