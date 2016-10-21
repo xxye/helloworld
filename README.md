@@ -17,3 +17,5 @@ Bold and italics: **bold** and *italics*
 This was done in the testing branch again
 
 This was done in the master branch
+
+New line
